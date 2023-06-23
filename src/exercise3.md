@@ -33,7 +33,7 @@ exercise3.md
 
 ### Результат выполнения команды в Local Storage
 
-![Результат выполнения Local Storage](image.png)
+![Результат выполнения Local Storage](misc/images/Результат_выполнения_Local_Storage.png)
 
 
 ### Состояние Local Storage после выполнения команды
