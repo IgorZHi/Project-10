@@ -61,7 +61,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 
 ##### Отсортируем из OrderDetails количество в Quantity  по убыванию.
 
-![Alt text](/image-14.png)
+![Alt text](/misc/images/Снимок_экрана__367_.png)
 ##### Отсортируем из OrderDetails количество в OrderDetailID( деталей заказа) по убыванию.
 
 
