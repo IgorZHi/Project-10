@@ -89,7 +89,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 ##### Использование- MIN функцию для выбора записи с наименьшим значением столбца Price
 
 
-![Alt text](/image-20.png)
+![Alt text](/misc/images/Снимок_экрана__377_.png)
 ##### Использование функции SQL - SUM для вычисления суммы всех Price значений столбцов в Products таблице.
 
 
