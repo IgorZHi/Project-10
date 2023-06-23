@@ -131,7 +131,7 @@ __Запрос 1.__ Запрошены данные по поставщикам,
 SELECT * FROM Suppliers  
 ORDER BY Country, City;
 ```
-![Suppliers1](Suppliers1.png)    
+![Suppliers1](/misc/images/Suppliers1.png)    
 
 __Запрос 2.__ Запрошены данные по поставщикам, находящимся в Канаде
 
