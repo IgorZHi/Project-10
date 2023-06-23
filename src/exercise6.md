@@ -81,7 +81,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 
 ### Products
 
-![Alt text](/image-18.png)
+![Alt text](/misc/images/screencapture-w3schools-sql-trysql-asp-2023-06-22-17_51_44.png)
 ##### Выбрать все записи из Products таблицы, отсортировать результат в алфавитном порядке по столбцу	Price.
 
 
