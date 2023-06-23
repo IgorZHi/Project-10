@@ -57,7 +57,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 ![Alt text](/misc/images/Снимок_экрана__365_.png)
 ##### Отсортируем из OrderDetails количество в Quantity  по возрастанию.
 
-![Alt text](/image-13.png)
+![Alt text](/misc/images/Снимок_экрана__366_.png)
 
 ##### Отсортируем из OrderDetails количество в Quantity  по убыванию.
 
