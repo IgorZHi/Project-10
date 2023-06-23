@@ -28,7 +28,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 
 ### Categories
 
-![Alt text](/image-6.png)
+![Alt text](/misc/images/image-6.png)
 ##### Выберем из Categories и отсортируем по Description.
 
 
