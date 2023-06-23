@@ -85,7 +85,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 ##### Выбрать все записи из Products таблицы, отсортировать результат в алфавитном порядке по столбцу	Price.
 
 
-![Alt text](/image-19.png)
+![Alt text](/misc/images/Снимок_экрана__376_.png)
 ##### Использование- MIN функцию для выбора записи с наименьшим значением столбца Price
 
 
