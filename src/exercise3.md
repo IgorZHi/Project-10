@@ -38,7 +38,7 @@ exercise3.md
 
 ### Состояние Local Storage после выполнения команды
 
-![Состояние Local Storage](image-1.png)
+![Состояние Local Storage](/misc/images/Состояние_Local_Storage.png)
 
 
 ## Для добавления объекта в Session Storage была использована команда:
