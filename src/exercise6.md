@@ -9,7 +9,7 @@ __Запрос 1.__ Запрошены данные по грузоотправ�
 SELECT * FROM Shippers
 ORDER BY ShipperName
 ```
-![Shippers1](Shippers1.png)
+![Shippers1](misc/images/Shippers1.png)
 
 __Запрос 2.__ Запрошены данные по грузоотправителю с наименованием Speedy Express
 
