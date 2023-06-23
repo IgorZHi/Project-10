@@ -150,7 +150,7 @@ WHERE NOT Country = 'Brazil'
 GROUP BY Country
 ORDER BY count(SupplierID) DESC
 ```
-![Suppliers3](Suppliers3.png)
+![Suppliers3](/misc/images/Suppliers3.png)
 
 
 
