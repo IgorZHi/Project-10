@@ -15,7 +15,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 
 
 
-![Alt text](/misc/images/image-1.png)
+![Alt text](/misc/images/image-1.1.png)
 #### Выберем из базы клиентов из Америки.
 
 
