@@ -10,7 +10,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 
 ### Customers
 
-![Alt text](/misc/images/image.png)
+![Alt text](/misc/images/image1.png)
 #### Берутся клиенты которые из Лондона и Парижа.
 
 
