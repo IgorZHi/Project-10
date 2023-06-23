@@ -30,7 +30,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 
 
 
-![Alt text](/misc/misc/images/image-1.7.png)
+![Alt text](/misc/images/image-1.7.png)
 ##### Выберем CategoryID, description из Categories и сгрупируем по description.
 
 
@@ -40,7 +40,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 
 ### Employees
 
-![Alt text](/misc/images/image-9.png)
+![Alt text](/misc/images/image-1.9.png)
 ##### Отсортируем из Employees работников в BirthDate по дате рождения кроме 1928-01-01.
 
 
