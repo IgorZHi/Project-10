@@ -21,7 +21,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 
 ![Alt text](/misc/images/image-2.png)
 ![Alt text](/misc/images/image-3.png)
-![Alt text](/image-4.png)
+![Alt text](/misc/images/image-4.png)
 ![Alt text](/image-5.png)
 #### Отсортируем клиентов по стране в алфавитном порядке.
 
