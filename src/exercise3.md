@@ -33,7 +33,7 @@ exercise3.md
 
 ### Результат выполнения команды в Local Storage
 
-![Результат выполнения Local Storage](misc/images/Результат_выполнения_Local_Storage.png)
+![Результат выполнения Local Storage](/misc/images/Результат_выполнения_Local_Storage.png)
 
 
 ### Состояние Local Storage после выполнения команды
@@ -47,7 +47,7 @@ exercise3.md
 
 ### Результат выполнения команды в Session Storage
 
-![Результат выполнения Session Storage](image-2.png)
+![Результат выполнения Session Storage](/misc/images/Результат_выполнения_Session_Storage.png)
 
 ### Состояние Session Storage после выполнения команды
 
