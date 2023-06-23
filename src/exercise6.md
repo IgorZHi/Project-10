@@ -75,7 +75,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 ##### Отсортируем из Orders количество в CustomerID( пользователей ID) по убыванию.
 
 
-![Alt text](/image-17.png)
+![Alt text](/misc/images/Снимок_экрана__373_.png)
 ##### Выберите все записи, в которых CustomerIDстолбец имеет значение 91.
 
 
