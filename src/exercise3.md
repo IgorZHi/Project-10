@@ -51,4 +51,4 @@ exercise3.md
 
 ### Состояние Session Storage после выполнения команды
 
-![Состояние Session Storage](image-3.png)
+![Состояние Session Storage](/misc/images/Состояние_Session_Storage.png)
