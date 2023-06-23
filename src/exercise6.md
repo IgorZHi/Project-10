@@ -33,7 +33,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 
 
 
-![Alt text](/image-7.png)
+![Alt text](/misc/images/image-7.png)
 ##### Выберем CategoryID, description из Categories и сгрупируем по description.
 
 
