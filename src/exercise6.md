@@ -48,7 +48,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 ##### Отсортируем из Employees работников в BirthDate по дате рождения по возрастанию.
 
 
-![Alt text](/image-11.png)
+![Alt text](/misc/images/Снимок_экрана__364_.png)
 ##### Отсортируем из Employees работников в BirthDate по дате рождения по убыванию.
 
 
