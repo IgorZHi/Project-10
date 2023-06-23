@@ -67,7 +67,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 
 ### Orders
 
-![Alt text](/image-15.png)
+![Alt text](/misc/images/Снимок_экрана__368_.png)
 ##### Выберите все записи из Orders таблицы, отсортируйте результат по алфавиту, сначала по столбцу ShipperID, затем по столбцу OrderID.
 
 
