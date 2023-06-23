@@ -71,7 +71,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 ##### Выберите все записи из Orders таблицы, отсортируйте результат по алфавиту, сначала по столбцу ShipperID, затем по столбцу OrderID.
 
 
-![Alt text](/image-16.png)
+![Alt text](/misc/images/Снимок_экрана__372_.png)
 ##### Отсортируем из Orders количество в CustomerID( пользователей ID) по убыванию.
 
 
