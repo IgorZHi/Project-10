@@ -43,7 +43,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 
 ### Employees
 
-![Alt text](/image-9.png)
+![Alt text](/misc/images/image-9.png)
 ##### Отсортируем из Employees работников в BirthDate по дате рождения кроме 1928-01-01.
 
 
