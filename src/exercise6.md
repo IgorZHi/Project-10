@@ -120,7 +120,7 @@ WHERE NOT Phone = '(503) 555-9831'
 GROUP BY ShipperName
 ORDER BY count(ShipperID)
 ```
-![Shippers3](Shippers3.png)
+![Shippers3](/misc/images/Shippers3.png)
 
 
 ## База данных Suppliers (Поставщики).  
