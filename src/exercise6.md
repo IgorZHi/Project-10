@@ -47,7 +47,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 ##### Отсортируем из Employees работников в BirthDate по дате рождения кроме 1928-01-01.
 
 
-![Alt text](/image-10.png)
+![Alt text](/misc/images/image-10.png)
 ##### Отсортируем из Employees работников в BirthDate по дате рождения по возрастанию.
 
 
