@@ -34,7 +34,7 @@ https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 ##### Выберем CategoryID, description из Categories и сгрупируем по description.
 
 
-![Alt text](/misc/images/image-8.png)
+![Alt text](/misc/images/image-1.8.png)
 ##### Выберем CategoryID, description из Categories и сгрупируем по CategoryID.
 
 
