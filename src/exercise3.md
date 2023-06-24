@@ -36,7 +36,7 @@ sessionStorage.setItem('key', 'value')
 
 
 Состояние Local Storage после выполнения команды
-![Состояние Local Storage](<Состояние Local Storage.png>)  
+![Состояние Local Storage](/misc/images/Состояние_Local_Storage.png)  
 
 
 Результат выполнения команды в Session Storage
