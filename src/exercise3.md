@@ -32,7 +32,7 @@ localStorage.setItem('name', 'value')
 sessionStorage.setItem('key', 'value')  
 
 Результат выполнения команды в Local Storage
-![Результат выполнения Local Storage](<Результат выполнения Local Storage.png>)
+![Результат выполнения Local Storage](/misc/images/Результат_выполнения_Local_Storage.png)
 
 
 Состояние Local Storage после выполнения команды
