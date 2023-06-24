@@ -40,7 +40,7 @@ sessionStorage.setItem('key', 'value')
 
 
 Результат выполнения команды в Session Storage
-![Результат выполнения Session Storage](<Результат выполнения Session Storage.png>)
+![Результат выполнения Session Storage](/misc/images/Результат_выполнения_Session_Storage.png)
 
 Состояние Session Storage после выполнения команды
 ![Состояние Session Storage](<Состояние Session Storage.png>)
